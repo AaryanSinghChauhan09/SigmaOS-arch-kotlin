@@ -1,4 +1,4 @@
-use arch_kotlin::Component;
+use sigmaos_kotlin::Component;
 
 #[test]
 fn test_component_new_aaa() {

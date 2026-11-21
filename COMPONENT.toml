@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-kotlin"
+name = "SigmaOS-kotlin"
 tier = 2
 stability = "scaffold"
 language = "rust"

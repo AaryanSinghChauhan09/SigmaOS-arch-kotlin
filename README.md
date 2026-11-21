@@ -1,4 +1,4 @@
-# SigmaOS-arch-kotlin
+# SigmaOS-kotlin
 
 GitHub description is a placeholder; component scope remains unclassified.
 
